@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Clarisse! 
-- 👀 Among many things, I’m interested in exploring the power of applying methods in computational linguistics to forensic linguistics! 
+- 👀 Among many things, I’m interested in exploring the power of applying methods in computational linguistics to forensic linguistics
 - 🌱 I’m currently learning intermediate/advanced python, semantics, and the politics of language
-- 📫 How to reach me - email: ctaboy@gradcenter.cuny.edu, linkedin: https://www.linkedin.com/in/clarissetaboy/
+- 📫 How to reach me - Email: ctaboy@gradcenter.cuny.edu, Linkedin: https://www.linkedin.com/in/clarissetaboy/
