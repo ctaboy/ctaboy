@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Clarisse! 
-- 👀 Among many things, I’m interested in exploring the power of applying methods in computational linguistics to forensic linguistics
-- 🌱 I’m currently learning intermediate/advanced python, semantics, and the politics of language
+- 👋 Hi! I’m Clarisse, a Master's student in Computational Linguistics at the CUNY Graduate Center
+- 👀 Among many things, I’m interested in exploring the power of applying methods in computational linguistics to speech technologies, or even forensic linguistics!
+- 🌱 This spring semester, I’m learning how to use Python for cool things like language modeling and G2P conversion; semantics, and sociolinguistics and the politics of language
 - 📫 How to reach me - Email: ctaboy@gradcenter.cuny.edu, Linkedin: https://www.linkedin.com/in/clarissetaboy/
