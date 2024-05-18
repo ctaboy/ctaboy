@@ -1,3 +1,3 @@
-- 👋 Hi! I’m Clarisse, a Master's student in Computational Linguistics at the CUNY Graduate Center
-- 👀 Among many things, I’m interested in exploring the power of applying methods in computational linguistics for social good, such as hate speech classification.
-- 📫 How to reach me - Email: ctaboy@gradcenter.cuny.edu, Linkedin: https://www.linkedin.com/in/clarissetaboy/
+- 👋 Hi! I’m Clarisse, a graduate of the Computational Linguistics master's program at the CUNY Graduate Center
+- 👀 Among many things, I’m interested in conversational AI and leveraging language technologies for social good, such as hate speech classification.
+- 📫 How to reach me - Email: taboyclarisse@gmail.com, Linkedin: https://www.linkedin.com/in/clarissetaboy/
